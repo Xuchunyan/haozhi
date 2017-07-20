@@ -1,0 +1,72 @@
+section {
+  background: #fafafa;
+  border: solid #fafafa; }
+  section .section {
+    width: 1200px;
+    margin: 0 auto;
+    background: white;
+    margin-top: 52px;
+    padding-bottom: 106px;
+    margin-bottom: 120px;
+    border: solid 1px #e6e6e6; }
+    section .section table {
+      margin: 0 auto; }
+      section .section table tr:nth-child(11) td input {
+        background: #2288f6;
+        color: white; }
+      section .section table tr:first-child th {
+        padding-top: 42px;
+        font-size: 26px;
+        padding-bottom: 52px; }
+      section .section table tr {
+        margin-top: 54px; }
+        section .section table tr td:first-child {
+          font-size: 16px; }
+        section .section table tr td {
+          padding-bottom: 12px;
+          padding-left: 20px;
+          font-size: 16px; }
+          section .section table tr td input {
+            width: 356px;
+            height: 40px;
+            border: solid 1px #CCCCCC;
+            border-radius: 3px;
+            padding-left: 10px; }
+        section .section table tr select {
+          width: 366px;
+          height: 40px;
+          color: #CCCCCC;
+          border: solid 1px #CCCCCC; }
+        section .section table tr td:first-child {
+          text-align: right;
+          padding-right: 5px; }
+        section .section table tr td:last-child {
+          font-size: 12px;
+          color: red; }
+          section .section table tr td:last-child img {
+            padding-right: 10px; }
+      section .section table tr:nth-child(9) td input, section .section table tr:nth-child(10) td input {
+        width: 174px; }
+      section .section table tr:nth-child(9) td input:nth-child(2), section .section table tr:nth-child(10) td input:nth-child(2) {
+        width: 164px;
+        margin-left: 18px; }
+      section .section table tr:nth-child(10) td:nth-child(2) {
+        position: relative; }
+        section .section table tr:nth-child(10) td:nth-child(2) img {
+          margin-left: 38px;
+          position: absolute;
+          top: 5px; }
+        section .section table tr:nth-child(10) td:nth-child(2) a {
+          position: absolute;
+          right: 0;
+          top: 20px; }
+      section .section table tr:last-child td:nth-child(2) {
+        position: relative; }
+        section .section table tr:last-child td:nth-child(2) a:last-child {
+          position: absolute;
+          top: 0;
+          right: 0; }
+        section .section table tr:last-child td:nth-child(2) a:first-child:hover {
+          border-bottom: solid 1px; }
+
+/*# sourceMappingURL=register.css.map */

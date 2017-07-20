@@ -1,0 +1,313 @@
+.clearfix:after {
+  display: block;
+  clear: both;
+  content: ""; }
+
+.header_banner{
+	height: 560px;
+}
+.header_banner img{
+	width: 100%;
+	height: 100%;
+}
+.header_img{
+	position: fixed;
+	top:510px;right: 0px;
+}
+.section_cp{
+	margin-top: 64px;
+	position: relative;
+}
+.section_cp hr{
+	width: 1000px;
+}
+.section_cp .section_span{
+	position: absolute;
+	top:-16px;
+	left:600px;
+	width: 156px;
+	display: block;
+	background:white;
+	font-size: 24px;
+	font-weight:bold ;
+	text-align: center;
+}
+.section_spantow{
+	position: absolute;
+	top:15px;
+	left:613px;
+	color:gray;
+}
+.secrion_tubiao{
+	width: 1202px;
+	margin: 0 auto;
+	margin-top: 65px;
+	height:450px;
+	
+}
+.secrion_tb{
+	height: 260px;
+}
+.tubiao_A{
+	width: 260px;
+	height: 260px;
+	background: gainsboro;
+	text-align: center;
+	float: left;
+	margin-right: 54px;
+}
+.tubiao_A img{
+	margin-top:55px;
+	color:#ff7d75;
+}
+.tubiao_wz span{
+	display: block;
+	margin-top:20px;
+	width: 100px;
+	height: 100px;
+}
+.tubiao_span_A{
+	margin-top:40px;
+	text-align: center;
+	font-size: 19px;
+	color: #333333;
+}
+
+.tubiao_B{
+	width: 260px;
+	height: 260px;
+	background:#ff7d75;
+	text-align: center;
+	float: left;
+	margin-right: 54px;
+}
+.tubiao_B img{
+	margin-top:55px;
+	color:#ff7d75;
+}
+.tubiao_span_B{
+	margin-top:40px;
+	text-align: center;
+	font-size: 19px;
+	color:white;
+}
+
+.tubiao_C{
+	width: 260px;
+	height: 260px;
+	background: gainsboro;
+	text-align: center;
+	float: left;
+	margin-right: 54px;
+}
+.tubiao_C img{
+	margin-top:55px;
+	color:#ff7d75;
+}
+.tubiao_span_C{
+	margin-top:40px;
+	text-align: center;
+	font-size: 19px;
+	color: #333333;
+}
+.tubiao_D{
+	width: 260px;
+	height: 260px;
+	background: gainsboro;
+	text-align: center;
+	float: left;
+}
+.tubiao_D img{
+	margin-top:55px;
+	color:#ff7d75;
+}
+.tubiao_span_D{
+	margin-top:40px;
+	text-align: center;
+	font-size: 19px;
+	color: #333333;
+}
+.secrion_wz{
+	height: 220px;
+	margin-top:20px;
+}
+.secrion_wz_A{
+	width: 260px;
+	height: 260px;
+	float: left;
+
+	
+}
+.secrion_wz_B{
+	width: 260px;
+	height: 260px;
+
+	float: left;
+	margin-left: 54px;
+}
+.secrion_wz_C{
+	width: 260px;
+	height: 260px;
+
+	float: left;
+	margin-left: 54px;
+}
+.secrion_wz_D{
+	width: 260px;
+	height: 260px;
+
+	float: left;
+	margin-left: 54px;
+}
+.secrion_wz_A span{
+	font-size: 20px;
+	font-weight: bold;
+	color: #333333;
+}
+.secrion_wz_B span{
+	font-size: 20px;
+	font-weight: bold;
+	color: #333333;
+}
+.secrion_wz_C span{
+	font-size: 20px;
+	font-weight: bold;
+	color: #333333;
+}
+.secrion_wz_D span{
+	font-size: 20px;
+	font-weight: bold;
+	color: #333333;
+}
+.secrion_wz_A .top_p{
+	font-size: 13px;
+	margin-top: 18px;
+	color: #666666;
+}
+.secrion_wz_B .top_p{
+	font-size: 13px;
+	margin-top: 18px;
+	color: #666666;
+
+}
+.secrion_wz_C .top_p{
+	font-size: 13px;
+	margin-top: 18px;
+	color: #666666;
+}
+.secrion_wz_D .top_p{
+	font-size: 13px;
+	margin-top: 18px;
+	color: #666666;
+}
+.secrion_hover_A{
+	background: #fafafa;
+	margin-top: 80px;
+}
+.secrion_hover{
+	width: 1200px;
+	height:612px;
+	margin: 0 auto;
+}
+.wz_p{
+	font-size: 13px;
+	color: #666666;
+	margin-top:9px;
+}
+.secrion_shopcmd{
+	font-size:30px;
+	font-weight: bold;
+	text-align: center;
+}
+.secrion_colorspan{
+	color:#0b95ed;
+}
+.secrion_ul{
+	margin-top: 136px;
+}
+.ul_span{
+	font-size:19px;
+	font-weight: bold;
+	margin-top:100px;
+}
+.secrion_ul img{
+	margin-top: 45px;
+}
+.p1{
+	margin-top: 17px;
+	color: #666666;
+}
+.secrion_li_A{
+	text-align: center;
+	float: left;
+	list-style: none;
+	width:224px;
+	height: 428px;
+	background: white;
+	
+}
+.secrion_li_B{
+	margin-left: 18px;
+	text-align: center;
+	float: left;
+	list-style: none;
+	width:224px;
+	height: 428px;
+	background: white;
+}
+.font-db{
+	margin-top:80px;
+	height: 596px;
+}
+.fonter_A {
+	margin: 0 auto;
+	width: 1200px;
+/*	border: 1px solid saddlebrown;*/
+}
+.font_img{
+	float: left;
+}
+.font_wz{
+	float: left;
+	padding:106px 0 150px 0;
+	margin-left: 80px;
+	/*border: 1px solid salmon;*/
+}
+.font_wz span{
+	font-size: 19px;
+}
+.font_h2{
+	margin-top: 33px;
+}
+.font_wz h2{
+	font-size: 30px;
+	color: #2281ef;
+}
+/*.font_wz input{
+	width:260px;
+	height:63px;
+	background:#0c5bb7 ;
+}*/
+.font_a{
+	width: 260px;
+	height:64px;
+	margin-top: 44px;
+	display: block;
+	background:#2281ef;
+	font-size: 23px;
+	color: white;
+	text-align: center;
+	line-height: 64px;
+	box-shadow:1px 1px 5px 1px #007AFF;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,75 @@
+section{
+    background: #fafafa;
+    border: 1px solid #fff;
+}
+section .pass{
+    width: 1200px;
+    height: 580px;
+    margin: 50px auto 120px;
+    background: #fff;
+    border: 1px solid #e6e6e6;
+}
+.pass-word h3{
+    font-size: 26px;
+    margin: 48px 545px;
+    text-align: center;
+}
+.pass-word ul{
+    margin: 0 310px;
+}.pass-word ul li{
+    margin-bottom: 20px;
+ }
+.pass-word ul li p{
+    float: left;
+    line-height: 40px;
+    font-size: 16px;
+    color: #8c8c8c;
+}
+.pass-word ul li p input{
+    width: 180px;
+    color: #666666;
+}
+.pass-inp,.pass-inp1{
+    width: 180px;
+    height: 40px;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin: 0px 30px 0 20px;
+}
+.pass-inp1{
+    width: 370px;
+}
+.pass-yz{
+    text-align: right;
+    width: 140px;
+}
+.pass-hq{
+    width: 160px;
+    height: 40px;
+    border: 1px solid #e6e6e6;
+    border-radius: 2px;
+    text-align: center;
+    background: #f4f4f4;
+}
+.pass-qd{
+    width: 350px;
+    height: 45px;
+    background: #2288f6;
+}
+.pass-inp2{
+    margin: 40px 0 0 160px;
+    width: 360px;
+    height: 45px;
+    background: #2288f6;
+    border-radius: 5px;
+    text-align: center;
+}
+.pass-inp2 a{
+    color: #fff;
+}
+.pass-word ul li .pass-last{
+    float: right;
+    margin-right: 60px;
+    padding-bottom: 20px;
+}

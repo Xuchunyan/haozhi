@@ -1,0 +1,80 @@
+section{
+    height: 560px;
+    background: #3793f6 url("../img/bj.png");
+}
+section .enter-one{
+    width: 1200px;
+    height: 560px;
+    margin: 0 auto;
+}
+.enter{
+    width: 290px;
+    height: 330px;
+    background: #fff;
+    float: right;
+    margin-top: 90px;
+    text-align: center;
+}
+.enter .enter-1{
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+.enter .enter-2{
+    margin: 10px 40px;
+    line-height: 25px;
+    font-size: 12px;
+    height: 25px;
+    border: 1px solid #ffe57d;
+    background: #fff6d2;
+    color: #fb0303;
+}
+.enter .enter-3{
+    height: 34px;
+    margin: 0 40px 20px 40px;
+    border: 1px solid #b0b0b0;
+    text-align: start;
+}
+.enter-3 img{
+    border-right: 1px solid #b0b0b0;
+    float: left;
+}
+.enter-4{
+    margin: 24px 40px 16px 40px;
+    color: #666666;
+}
+.enter-3 input{
+    float: left;
+    height: 34px;
+    width: 160px;
+    padding-left: 10px;
+    font-size: 14px;
+    color: #CCCCCC;
+}
+.enter-4 p,.enter-4 input{
+    float: left;
+    line-height: 12px;
+}
+
+.enter-4 .enter-r{
+    float: right;
+}
+.enter-5{
+    margin: 0 40px;
+    height: 36px;
+    line-height: 36px;
+    background: #3e7ee7;
+    font-size: 14px;
+}
+.enter-5 a{
+    color: #fff;
+}
+.enter-6{
+    margin: 10px 40px;
+    text-align: end;
+}
+.enter-footer{
+    width: 430px;
+    margin: 0 auto;
+    padding-top: 46px;
+}

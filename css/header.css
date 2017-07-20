@@ -1,0 +1,115 @@
+.header{
+    height: 100px;
+    width: 1200px;
+    margin: 0 auto;
+    background: #fff;
+}
+.header .header-left{
+    float: left;
+    margin-top: 18px;
+}
+.header .header-right{
+    float: right;
+}
+.header .header-right ul{
+    margin-top: 35px;
+
+}
+.header .header-right ul>li{
+    float: left;
+    font-size: 18px;
+    font-family: "微软雅黑";
+    margin: 0 20px;
+    position: relative;
+    padding-bottom: 30px;
+}
+.header-yun{
+    padding: 20px 0px 10px 0;
+    border-bottom: 1px solid #b0b0b0;
+    margin-right: 40px;
+}
+.right{
+    position: relative;
+}
+.right-abs{
+    position: absolute;
+    display: none;
+    background: #fff;
+    width: 140px;
+    top: 10px;
+    border: 1px solid #e6e6e6;
+    z-index: 999;
+    left: -40px;
+}
+.right-abs p{
+  text-align: left;
+  padding: 10px 10px 5px;
+}
+.right-abs p>a:hover,header .header-right ul>li>a:hover,.header-shoop>a:hover{
+    color: #2288f6;
+}
+header .header-right ul>li>ol{
+    position: absolute;
+    top: 65px;
+    /*left: 800px;*/
+    padding: 0 0 0 40px;
+    display: none;
+    background: #fcfbfb;
+    width: 460px;
+    z-index: 999;
+    /*height: 160px;*/
+}
+.header-shoop{
+    padding-top: 10px;
+}
+.header-mian{
+    font-size: 12px;
+    color: #999;
+    padding: 10px 0 20px 0;
+}
+.header .header-right div{
+    margin-top: 10px;
+    text-align: right;
+}
+.header .header-right .header-list{
+    margin: 0px;
+}
+footer{
+    height: 165px;
+    background: #212425;
+}
+.footer{
+    width: 1200px;
+    height: 165px;
+    margin: 0 auto;
+}
+.footer ul{
+    margin: 0 64px;
+    border-bottom: 1px solid #b0b0b0;
+    padding: 0 130px;
+}
+.footer ul li{
+    float: left;
+    color: #fff;
+    font-size: 14px;
+    margin-top: 46px;
+    margin-bottom: 20px;
+    padding: 0 15px;
+    line-height: 14px;
+    border-right: 1px solid #b0b0b0;
+}
+.footer ul li a{
+    color: #fff;
+}
+.footer .footer-list{
+    border: none;
+    margin-bottom: 0;
+    margin-top: 40px;
+}
+.footer div{
+    width: 430px;
+    color: #b0b0b0;
+    margin: 0 auto;
+    line-height: 16px;
+    padding: 16px 0;
+}

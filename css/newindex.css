@@ -1,0 +1,147 @@
+
+/*banner区*/
+/*在这里不要设置div的width = 100%;要设置为屏幕的宽*/
+
+/*颜色区*/
+.blue{color: deepskyblue;}
+/*bannner轮播区*/
+.wp_wheel{
+		position: relative;
+									height: 400px;
+		overflow: hidden
+		}
+.wp_wheel .wheel_pic{
+					margin: 0 auto;;
+					position: absolute;
+					top: 0;left: 0;}
+.wp_wheel .wheel_pic>li{float: left;}
+.wp_wheel .wheel_pic>li img{width: 100%;}
+
+/*身体*/
+
+.wp_main{
+	background: #FAFAFA;
+}
+.wp_main .wp_content{width: 1062px;
+					margin: 0 auto;
+					background: #FAFAFA;}
+
+
+
+.wp_titile{text-align: center;line-height: 64px;margin-top: 25px;}
+.wp_titile hr{width: 300px;display: inline-block;background: #CCCCCC;}
+.wp_titile h1{display: inline-block;
+								color: #333333;	font-size: 24px;}
+.wp_main .wp_content{text-align: center;}
+.wp_main .wp_txt{color: #666666;}
+.wp_txt1{font-size: 14px;line-height: 24px;text-align: center;}
+.wp_main .wp_txt2{font-size: 14px;line-height: 28px;}
+
+.wp_main .wp_img{margin-top: 50px;}
+.wp_main .wp_img .wp_div{width: 240px;height: 430px;
+					float: left;border: solid 1px #E7E8E9;
+					background: white;
+					padding: 40px;
+					}
+.wp_main .wp_img .yingxiao{margin:0 48px;}
+.wp_main .wp_img .wp_div{text-align: center;}
+.wp_main .wp_img .wp_div h3{line-height: 45px;font-size: 18px;margin-top: 45px;}
+.wp_main .wp_img .wp_div p{color: #666666;line-height: 24px;font-size: 12px;text-align: center;}
+.wp_main .wp_img .wp_div span{margin: 40px auto;line-height: 38px;width: 150px;border:solid 1px #ff9900;display: block;}
+.wp_main .wp_img .wp_div a{display: block;color: #ff9900;}
+.wp_main .wp_img .wp_div .orange{background: #ff9900;color: #FFFFFF;}
+
+/*轮播区*/
+.w1{height: 230px;padding: 61px 0;position: relative;}
+.wp_lunbo{
+			margin: 50px 0 1px;
+			width:1052px ;
+			height: 210px;
+			margin: 0 auto;
+			position: relative;
+			overflow: hidden;
+			}
+			.ul{
+				position: absolute;
+				left: 0;top: 0;
+			}
+			.wp_li{
+				width: 324px;
+				height: 210px;
+				float: left;
+				padding:0 10px;
+			
+			}
+
+
+.wp_lunbo .li_cont{
+			width: 324px;
+			height: 210px;
+			background: goldenrod;
+			float: left;
+			position: relative;
+			margin: 0 20px;
+			}		
+/*轮播*/
+.wp_lunbo img{
+	width: 100%;height: 100%;
+}
+.wp_lunbo .text{
+	background: rgba(0,0,0,0.5);
+	font-size: 12px;line-height: 24px;
+	padding: 5px 0;
+	text-align: center;
+	color: #ffffff;
+	width: 324px;
+	position: absolute;
+	bottom: 0;
+}
+.wp_lunbo .float{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	top: 0;	
+	
+}
+.float:hover{
+	display: block;
+	background:rgba(0,0,0,0.5) url(../img/newindex/wp-soso.png) no-repeat center;
+}
+.but{
+		display: block;
+		cursor: pointer;
+		width: 60px;height: 60px;line-height: 50px;
+		background:#E6E6E6 ;color: white;
+		border-radius: 50%;
+		text-align: center;
+		font-size: 45px;
+		position: absolute;
+		top: 225px;
+		z-index: 999;
+		}
+#left{
+	left: 60px;
+	
+}
+#right{right: 60px;}
+.wp_lunbo>.activ1{background: #57A9EF;}
+.w2{background: #FAFAFA;}
+.wp_content1 .wp_content2{
+					width: 1062px;
+					margin: 50px auto;
+					
+					}
+.wp_content1 .wp_partner{margin-top: 25px;}
+
+.wp_content1 .wp_partner li{}
+.wp_content1 .wp_partner a{width: 210px;height: 50px;text-align: center;
+						padding-top: 30px;
+						padding-bottom: 30px;
+					border: dashed 1px gainsboro;display: block;float: left;}
+.wp_content1 .wp_partner .border{border-right: 0;
+border-left: 0;}
+.wp_div .tu{width: 248px;height: 130px;}
+.wp_div .tu>img{width:100%;height: 100%;}
+
+
